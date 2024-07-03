@@ -4,7 +4,7 @@ Este é um projeto em Java desenvolvido em 2023, durante o segundo ano do curso 
 
 ## Sobre o Projeto
 
-A proposta do projeto foi criar um software para Carla, a proprietária da cantina do Instituto Ivoti. O software tem funcionalidades semelhantes às de um sistema de mercado, mas com uma abordagem mais simplificada e voltada para as necessidades específicas do ambiente de trabalho da Carla.
+A proposta do projeto foi criar um software para Carla, a proprietária da cantina no Instituto Ivoti. O software tem funcionalidades semelhantes às de um sistema de mercado, mas com uma abordagem mais simplificada e voltada para as necessidades específicas do ambiente de trabalho da Carla.
 
 ## Disciplinas Envolvidas
 
